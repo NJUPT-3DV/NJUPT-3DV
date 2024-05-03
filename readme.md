@@ -12,7 +12,11 @@
 - [Jiucheng Xie](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52BC62DCFE050007F01006EFE)
 - [Haolun Li](Pending)
 
-## 📫 How to reach me: [Lab Account](njupt.perception@gmail.com), [Prof. Dr. Gao](tsgaohao@gmail.com), [Lec. Dr. Xie](jiuchengxie@njupt.edu.cn), [Lec. Dr. Li](Pending)
+## 📫 How to reach me: 
+- Lab Account: njupt.perception@gmail.com
+- Prof. Dr. Gao: tsgaohao@gmail.com
+- Lec. Dr. Xie: jiuchengxie@njupt.edu.cn
+- Lec. Dr. Li: Pending
 <!--
 **NJUPT-3DV/NJUPT-3DV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
